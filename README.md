@@ -113,22 +113,43 @@ me.say_hi()
 
 </div>
 
+### 🌸 GSSoC '26 — Leaderboard Stats
+
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║              🌸 GSSoC '26 — Leaderboard Stats                    ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  🏆 Global Rank        →   #283 out of 43,586 participants        ║
-║  ⭐ Total Score        →   5,384 pts  (Top 1%)                    ║
-║  🎯 Tier               →   C Tier  (32 places to B Tier)         ║
-║  🔀 PRs Merged         →   17 contributions                       ║
-║  📁 Projects           →   7 repos contributed                    ║
-║  🏅 Badges Earned      →   12 badges                              ║
-║  📅 Active Weeks       →   4 out of 5 weeks                       ║
-║  🔥 Best Week          →   508 pts (Week 2)                       ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Global_Rank-%23283-58a6ff?style=for-the-badge&logo=trophy&logoColor=white"/>
+<br/><sub>out of 43,586</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Score-5%2C384_pts-gold?style=for-the-badge&logo=star&logoColor=white"/>
+<br/><sub>Top 1% globally</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PRs_Merged-17-4CAF50?style=for-the-badge&logo=git&logoColor=white"/>
+<br/><sub>across 7 projects</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Badges-12_Earned-ff6b35?style=for-the-badge&logo=github&logoColor=white"/>
+<br/><sub>including Elite (Epic)</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+| Metric | Value | Note |
+|:---|:---:|:---|
+| 🏆 Global Rank | **#283** / 43,586 | Top 1% |
+| ⭐ Total Score | **5,384 pts** | C Tier → 32 pts to B Tier |
+| 🔀 PRs Merged | **17** | 7 projects contributed |
+| 🏅 Badges | **12** | Epic · Rare · Uncommon · Common |
+| 🔥 Best Week | **508 pts** | Week 2 |
+| 📅 Active Weeks | **4 / 5** | Consistent contributor |
 
 </div>
 
@@ -171,15 +192,26 @@ me.say_hi()
 
 <div align="center">
 
-![Elite](https://img.shields.io/badge/🏆%20Elite-Epic-gold?style=flat-square)
-![Power Contributor](https://img.shields.io/badge/💪%20Power%20Contributor-Rare-purple?style=flat-square)
-![Rising Star](https://img.shields.io/badge/⭐%20Rising%20Star-Uncommon-blue?style=flat-square)
-![Bounty Master](https://img.shields.io/badge/🎯%20Bounty%20Master-Uncommon-orange?style=flat-square)
-![Building Momentum](https://img.shields.io/badge/🚀%20Building%20Momentum-Uncommon-green?style=flat-square)
-![Code Warrior](https://img.shields.io/badge/⚔️%20Code%20Warrior-Common-lightgrey?style=flat-square)
-![Point Scorer](https://img.shields.io/badge/📈%20Point%20Scorer-Common-lightgrey?style=flat-square)
-![Bounty Hunter](https://img.shields.io/badge/🎯%20Bounty%20Hunter-Common-lightgrey?style=flat-square)
-![First Steps](https://img.shields.io/badge/👣%20First%20Steps-Common-lightgrey?style=flat-square)
+| Tier | Badge |
+|:---:|:---|
+| 🥇 **Epic** | `🏆 Elite` |
+| 💜 **Rare** | `💪 Power Contributor` |
+| 💚 **Uncommon** | `⭐ Rising Star` · `🎯 Bounty Master` · `🚀 Building Momentum` |
+| ⬜ **Common** | `⚔️ Code Warrior` · `📈 Point Scorer` · `🎯 Bounty Hunter` · `👣 First Steps` |
+
+</div>
+
+<div align="center">
+
+![Elite](https://img.shields.io/badge/🏆_Elite-Epic-FF9500?style=flat-square&labelColor=1a1a1a)
+![Power Contributor](https://img.shields.io/badge/💪_Power_Contributor-Rare-7C3AED?style=flat-square&labelColor=1a1a1a)
+![Rising Star](https://img.shields.io/badge/⭐_Rising_Star-Uncommon-16a34a?style=flat-square&labelColor=1a1a1a)
+![Bounty Master](https://img.shields.io/badge/🎯_Bounty_Master-Uncommon-16a34a?style=flat-square&labelColor=1a1a1a)
+![Building Momentum](https://img.shields.io/badge/🚀_Building_Momentum-Uncommon-16a34a?style=flat-square&labelColor=1a1a1a)
+![Code Warrior](https://img.shields.io/badge/⚔️_Code_Warrior-Common-6b7280?style=flat-square&labelColor=1a1a1a)
+![Point Scorer](https://img.shields.io/badge/📈_Point_Scorer-Common-6b7280?style=flat-square&labelColor=1a1a1a)
+![Bounty Hunter](https://img.shields.io/badge/🎯_Bounty_Hunter-Common-6b7280?style=flat-square&labelColor=1a1a1a)
+![First Steps](https://img.shields.io/badge/👣_First_Steps-Common-6b7280?style=flat-square&labelColor=1a1a1a)
 
 </div>
 
@@ -233,7 +265,9 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamunatg2006-sys&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamunatg2006-sys&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4&row=1&type=MultiLanguage,Commits,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamunatg2006-sys&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4&row=1&type=Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -246,12 +280,11 @@ me.say_hi()
 [![SCHOLAR-CONNECT](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=SCHOLAR-CONNECT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/SCHOLAR-CONNECT)
 [![CardioVision](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=CardioVision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/CardioVision)
 
-</div>
-
-<div align="center">
-
 [![SJBIT-CivicTrack](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=SJBIT-CivicTrack&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/SJBIT-CivicTrack)
 [![VendorRisk-AI-Project](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=VendorRisk-AI-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/VendorRisk-AI-Project)
+
+[![story-spark-ai](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=story-spark-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/story-spark-ai)
+[![neurovision](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=neurovision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/neurovision)
 
 </div>
 
@@ -260,6 +293,8 @@ me.say_hi()
 > - **CardioVision** — AI-powered cardiovascular health prediction using Python/ML
 > - **SJBIT-CivicTrack** — Civic issue tracking system built with JavaScript
 > - **VendorRisk-AI-Project** — AI-based vendor risk assessment tool
+> - **story-spark-ai** — AI story generation platform (Top GSSoC contribution · 5 PRs)
+> - **neurovision** — Visual AI project (UI, CI automation & prediction fixes)
 
 ---
 
