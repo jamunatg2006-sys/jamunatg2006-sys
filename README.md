@@ -261,18 +261,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamunatg2006-sys&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4&row=1&type=MultiLanguage,Commits,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamunatg2006-sys&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4&row=1&type=Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -370,6 +358,6 @@ me.say_hi()
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jamunatg2006-sys&color=58a6ff&style=flat-square&label=Total+Visitors)](https://github.com/jamunatg2006-sys)
 
-*Made with ❤️ by Jamuna TG*
+
 
 </div>
