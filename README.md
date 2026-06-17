@@ -257,24 +257,7 @@ me.say_hi()
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamunatg2006-sys&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)](https://github.com/jamunatg2006-sys)
 
-</div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![SCHOLAR-CONNECT](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=SCHOLAR-CONNECT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/SCHOLAR-CONNECT)
-[![CardioVision](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=CardioVision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/CardioVision)
-
-[![SJBIT-CivicTrack](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=SJBIT-CivicTrack&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/SJBIT-CivicTrack)
-[![VendorRisk-AI-Project](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=VendorRisk-AI-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/VendorRisk-AI-Project)
-
-[![story-spark-ai](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=story-spark-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/story-spark-ai)
-[![neurovision](https://github-readme-stats.vercel.app/api/pin/?username=jamunatg2006-sys&repo=neurovision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/jamunatg2006-sys/neurovision)
-
-</div>
 
 > 🔍 **Project Highlights:**
 > - **SCHOLAR-CONNECT** — Educational platform connecting students with academic resources
