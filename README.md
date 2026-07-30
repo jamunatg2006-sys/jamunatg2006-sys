@@ -234,24 +234,6 @@ me.say_hi()
 
 [![View Full GSSoC Profile](https://img.shields.io/badge/🌸%20View%20Full%20GSSoC%20Profile-ff6b35?style=for-the-badge)](https://gssoc.girlscript.org/profile/3809e4b8-a6a6-48db-b632-6fe4faa7d6b1)
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamunatg2006-sys&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamunatg2006-sys&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamunatg2006-sys&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/jamunatg2006-sys)
-
-</div>
 
 <div align="center">
 
