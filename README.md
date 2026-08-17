@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jamuna TG 👋
-
-Computer Science student · Full-Stack Developer · Open Source Contributor
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jamuna+TG;Full-Stack+Developer;Open+Source+Contributor;AI+%2F+ML+Enthusiast;Cybersecurity+Explorer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamuna-t-g)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Jamuna_TG/)
@@ -53,7 +51,7 @@ This season I've been an active contributor to GirlScript Summer of Code, curren
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jamunatg2006-sys&theme=default&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=jamunatg2006-sys&theme=default&hide_border=true)
 
 </div>
 
@@ -75,15 +73,7 @@ This season I've been an active contributor to GirlScript Summer of Code, curren
 
 ---
 
-### Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
