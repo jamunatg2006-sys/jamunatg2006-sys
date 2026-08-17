@@ -23,7 +23,44 @@ I build full-stack web apps and explore AI/ML and cybersecurity. Currently contr
 
 ### 🌸 GSSoC '26 Journey
 
-This season I've been an active contributor to GirlScript Summer of Code, currently ranked **#283 out of 43,586** participants (top 1%) with **5,384 points** and **17 merged PRs** across 7 projects. My biggest contribution has been to *story-spark-ai*, an AI story generation platform, where I shipped features and fixed bugs across 5 PRs. Along the way I've earned the **Elite** badge (the program's highest tier) and the **Power Contributor** badge. It's been a solid mix of beginner, intermediate, and advanced-level issues — a good stretch for both my coding and collaboration skills.
+- 🏆 **Rank #414** of 47,951 participants — Top 1% globally
+- ⭐ **9,738 points** (C Tier) · **PR contributions:** 3,123 · **Bounty tasks:** 650
+- 🥇 Top contribution: *story-spark-ai* (AI story generation platform)
+- 🔧 Also contributed to *100_days_100_web_project*, *dailyforge*, *neurovision*, *sahidawa-india*, *aegisai*
+- 🎖️ **12 badges earned** — including Elite (Epic) and Power Contributor (Rare)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Leaderboard Score**
+
+| | |
+|---|---|
+| Score | **9,738** (Top 1%) |
+| Global Rank | **#414** |
+| Tier | **C Tier** |
+| PR Contributions | 3,123 |
+| Bounty Tasks | 650 |
+
+</td>
+<td width="50%" valign="top">
+
+**Badges Earned (12)**
+
+![Elite](https://img.shields.io/badge/🏆_Elite-Epic-FF9500?style=flat-square&labelColor=1a1a1a)
+![Power Contributor](https://img.shields.io/badge/💪_Power_Contributor-Rare-7C3AED?style=flat-square&labelColor=1a1a1a)
+![On a Roll](https://img.shields.io/badge/🔥_On_a_Roll-Rare-7C3AED?style=flat-square&labelColor=1a1a1a)
+![Rising Star](https://img.shields.io/badge/⭐_Rising_Star-Uncommon-16a34a?style=flat-square&labelColor=1a1a1a)
+![Building Momentum](https://img.shields.io/badge/🚀_Building_Momentum-Uncommon-16a34a?style=flat-square&labelColor=1a1a1a)
+![Code Warrior](https://img.shields.io/badge/⚔️_Code_Warrior-Common-6b7280?style=flat-square&labelColor=1a1a1a)
+![Point Scorer](https://img.shields.io/badge/📈_Point_Scorer-Common-6b7280?style=flat-square&labelColor=1a1a1a)
+![Bounty Hunter](https://img.shields.io/badge/🎯_Bounty_Hunter-Common-6b7280?style=flat-square&labelColor=1a1a1a)
+![First Steps](https://img.shields.io/badge/👣_First_Steps-Common-6b7280?style=flat-square&labelColor=1a1a1a)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -50,30 +87,7 @@ This season I've been an active contributor to GirlScript Summer of Code, curren
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jamunatg2006-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamunatg2006-sys&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=jamunatg2006-sys&theme=tokyonight&hide_border=true&mode=weekly" />
-
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamunatg2006-sys&theme=tokyo-night&hide_border=true)
-
-</div>
-
-<br>
-
-### Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jamunatg2006-sys&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8)
 
 </div>
 
