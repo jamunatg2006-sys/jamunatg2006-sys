@@ -8,6 +8,10 @@
 <a href="https://linkedin.com/in/jamuna-t-g"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/jamunatg2006-sys"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jamunatg2006-sys&label=Profile%20Views&color=58a6ff&style=for-the-badge)
+
 </div>
 
 <br>
