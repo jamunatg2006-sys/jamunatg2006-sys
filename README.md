@@ -21,7 +21,7 @@ I build full-stack web apps and explore AI/ML and cybersecurity. Currently contr
 
 <br>
 
-### 🌸 GSSoC '26 Journey
+###  GSSoC '26 Journey
 
 - 🏆 **Rank #414** of 47,951 participants — Top 1% globally
 - ⭐ **9,738 points** (C Tier) · **PR contributions:** 3,123 · **Bounty tasks:** 650
@@ -74,10 +74,22 @@ I build full-stack web apps and explore AI/ML and cybersecurity. Currently contr
 
 <div align="center">
 
+**Languages**
 ![Languages](https://skillicons.dev/icons?i=python,js,cpp,c,html,css&theme=dark)
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark)
+
+**Frontend**
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark)
+
+**Backend & Database**
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase&theme=dark)
+
+**Tools & Platforms**
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel&theme=dark)
+
+**AI / ML**
+![AI/ML](https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 
@@ -88,6 +100,18 @@ I build full-stack web apps and explore AI/ML and cybersecurity. Currently contr
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamunatg2006-sys&theme=tokyo-night&hide_border=true)
+
+</div>
+
+<br>
+
+<br>
+
+### Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
