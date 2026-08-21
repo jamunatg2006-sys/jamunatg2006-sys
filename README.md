@@ -111,18 +111,3 @@ I build full-stack web apps and explore AI/ML and cybersecurity. Currently contr
 
 <br>
 
-### Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer&fontColor=58a6ff" width="100%"/>
-
-</div>
