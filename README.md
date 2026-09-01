@@ -103,7 +103,7 @@ I build full-stack web apps and explore AI/ML and cybersecurity. Currently contr
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamunatg2006-sys&theme=tokyo-night&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamunatg2006-sys&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
