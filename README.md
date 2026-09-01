@@ -102,7 +102,8 @@ I build full-stack web apps and explore AI/ML and cybersecurity. Currently contr
 ### GitHub Stats
 
 <div align="center">
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamunatg2006-sys&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=6c63ff&point=ffffff&hide_border=true&area=true)](https://github.com/jamunatg2006-sys)
+
+![Snake Animation](https://raw.githubusercontent.com/jamunatg2006-sys/jamunatg2006-sys/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
