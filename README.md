@@ -103,7 +103,7 @@ I build full-stack web apps and explore AI/ML and cybersecurity. Currently contr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamunatg2006-sys&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://ghchart.romh.me/jamunatg2006-sys" alt="Jamuna's GitHub contribution chart" />
 
 </div>
 
