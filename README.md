@@ -103,7 +103,11 @@ I build full-stack web apps and explore AI/ML and cybersecurity. Currently contr
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/jamunatg2006-sys/jamunatg2006-sys/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamunatg2006-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/jamunatg2006-sys)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jamunatg2006-sys&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://github.com/jamunatg2006-sys)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamunatg2006-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)](https://github.com/jamunatg2006-sys)
 
 </div>
 
